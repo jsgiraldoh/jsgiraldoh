@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## Visita el blog, para compartir conocimientos acerca de Docker y DevOps.
+## Visita el blog, para compartir conocimientos acerca de Docker y DevOps. 🔜⛺🗺
 
 <!--
 **jsgiraldoh/jsgiraldoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
