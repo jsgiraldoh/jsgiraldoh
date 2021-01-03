@@ -1,6 +1,6 @@
 ## Visita el blog, para compartir conocimientos acerca de Docker y DevOps. 🔜⛺🗺 
    Aprende docker en español
-   👉 https://jsgiraldoh.github.io
+   👉 https://jsgiraldoh.github.io/Blog/
 
 <!--
 **jsgiraldoh/jsgiraldoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
