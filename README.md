@@ -1,4 +1,4 @@
-## Visita el Blog, para compartir conocimientos acerca de Docker y DevOps. 🔜⛺🗺 
+## Visita el Blog, para compartir conocimientos acerca de Docker -- DevOps. 🔜⛺🗺 
    Aprende Docker en español
    👉 https://jsgiraldoh.github.io/Blog/
 
