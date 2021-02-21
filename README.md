@@ -2,8 +2,6 @@
    Aprende Docker en español
    👉 https://jsgiraldoh.github.io/Blog/
 
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsgiraldoh" alt="jsgiraldoh"/></p>
-
 <!--
 **jsgiraldoh/jsgiraldoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
