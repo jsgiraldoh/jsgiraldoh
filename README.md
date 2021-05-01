@@ -4,7 +4,7 @@ Mi nombre es Johan Giraldo y soy de Colombia. 🇨🇴
 
 * Actualmente trabajo como ingeniero DevOps
 * 💙  CI/CD, Despliegues y configuración de contenedores
-* Tengo un [YouTube channel](https://www.youtube.com/channel/UCEg321NoigTkiogOH9wS0-Q) en español, acerca de tecnologias como Docker.
+* Tengo un [YouTube channel](https://www.youtube.com/channel/UCEg321NoigTkiogOH9wS0-Q) en español, acerca de tecnologías como Docker.
 * Autor del [Blog Aprende Docker en Español](https://jsgiraldoh.io/Blog/)
 
 Habilidades
