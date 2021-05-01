@@ -11,7 +11,7 @@ Habilidades
 ---
 * Uso Docker y docker-compose desde 2018
 * Uso Jenkins desde 2019
-* Trabajo con servidores linux rhel
+* Trabajo con servidores Linux rhel
 * Desarrollo de software con Java - Backend
 * Pentester Hobbie
 
