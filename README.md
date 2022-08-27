@@ -6,6 +6,7 @@ Mi nombre es Johan Giraldo y soy de Colombia. 🇨🇴
 * 💙  CI/CD, Despliegues y configuración de contenedores
 * Tengo un [YouTube channel](https://www.youtube.com/channel/UCEg321NoigTkiogOH9wS0-Q) en español, acerca de tecnologías como Docker
 * Autor del [Blog Aprende Docker en Español](https://jsgiraldoh.io/Blog/)
+* [Slides](https://issuu.com/johanse/stacks)
 
 Habilidades
 ---
